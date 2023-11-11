@@ -35,8 +35,8 @@ java Main
 ## Contributing
 We welcome contributions! If you'd like to contribute, please:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Submit a Pull Request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Commit your changes (git commit -am 'Add some feature').
+- Push to the branch (git push origin feature-branch).
+- Submit a Pull Request.
